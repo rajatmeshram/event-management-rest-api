@@ -1,4 +1,8 @@
+This Plugin create a custom post type "Events".This Post type having custom field Start date End date.
+This post will also handle by wp Rest Api.
 
+We can create post,delete,update etc using apis
+we need this plugin for basic auth Plugin : https://github.com/WP-API/Basic-Auth
 
 Api Route and parameters
 

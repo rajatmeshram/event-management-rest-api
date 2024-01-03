@@ -25,3 +25,6 @@ http://localhost/wordpress/wp-json/events/v1/allevents
 
 Dispaly Event by Date
 http://localhost/wordpress/wp-json/events/v1/list?date=2023-11-05T11:08
+
+<img src="https://github.com/rajatmeshram/event-management-rest-api/blob/main/e1.png" />
+<img src="https://github.com/rajatmeshram/event-management-rest-api/blob/main/e2.png" />
